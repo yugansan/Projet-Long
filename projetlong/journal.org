@@ -1,0 +1,67 @@
+29/09/2017 Alex.
+Le groupe a fait le Hello World et maintenant ils vont commencer a monter le
+robot.
+
+27/09/2017 Alex.
+Fait
+- Le robot bouge
+A faire:
+Aprentissage et reconaissance des couleurs
+
+* <10/11/2017> Alex.
+** Fait:
+- Le robot tourne a gauche et a droite aussi
+- Capture des couleurs mais pas RGB
+** A faire:
+- Continuer avec le capteur de couleur (maintenant le RGB)
+
+* <24/11/2017> Alex.
+** Fait:
+  - Apprentissage et reconaissance des couleurs
+** A faire:
+ - Suivre une ligne droite
+
+* <26/01/2018> Alex.
+** Fait:
+- Suivre une ligne droite
+- Fait des courbes
+** A faire:
+- Ameliorer la correction de position
+
+* <09/02/2018> Alex.
+** Fait:
+- Faire deux fonctions separés: une pour trouver une ligne jusqu'on trouve une
+  couleur et une autre que suit la ligne quand on voit une couleur et quand on
+  le ne voit plus, le robo s'arrete
+** A faire:
+- Faire les deux fonctionalités ensemble: on veut que le robot reussisse a faire
+  des circuits simples (quand il perd la ligne, il a cherche pour le trouver)
+
+
+* <23/02/2018> Alex.
+** A faire:
+- Tester les moteurs pour voir si un moteur est plus fort que l'autre. Dans ce
+  cas, on peut soit changer le moteur, soit tenir compte la difference de
+  puissance dans le code
+
+* <23/03/2018> Alex.
+** Fait:
+  - Le probleme avec les moteurs a été resolu il y a deux semaines
+  - Algo que fait zig-zag 
+** A faire:
+  - Essayer de augmenter la vitesse du robot
+  - Apprendre une couleur pour faire un demi-tour et faire le circuit dans
+    l'autre sens
+
+* <23/03/2018> Alex.
+** Fait:
+  - Le robot va plus vite sur le tapis orange
+** A faire:
+  - Ameliorer sur le circuit vert
+  - Apprendre une couleur pour faire un demi-tour et faire le circuit dans
+    l'autre sens
+
+* <06/04/2018> Alex.
+** Fait:  
+  - On peut configurer une couleur pour que le robot fasse un demi-tour
+** A faire:
